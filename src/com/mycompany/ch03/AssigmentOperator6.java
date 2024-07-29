@@ -5,7 +5,7 @@ public class AssigmentOperator6 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//대입 연산자 (+=, -=, *= ....
+		//대입 연산자 (+=, -=, *= ....)
 		
 		int result = 1;
 		int result2 = 2;

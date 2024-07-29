@@ -5,6 +5,8 @@ public class IncreaseDecreaseOperator2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		//증감 연산자
+		
 		int i = 7;
 		int j = 8;
 		
@@ -19,7 +21,7 @@ public class IncreaseDecreaseOperator2 {
 		int n = ++j;
 		
 //		k=8  i=9
-//		j=10 l=10
+//		j=10 n=10
 		
 		System.out.println("k :" + k);
 		System.out.println("i :" + i);
