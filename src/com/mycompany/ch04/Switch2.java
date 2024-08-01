@@ -7,7 +7,7 @@ public class Switch2 {
 
 		//사장, 부장, 과장, 대리, 주임, 사원, 나
 		//사장의 연봉은 얼마 입니다.
-//		System.out.println("연봉은 5,000 입니다.");
+		//System.out.println("연봉은 5,000 입니다.");
 		
 		String position = "사원";
 		
