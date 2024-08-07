@@ -9,6 +9,8 @@ public class MobileCellPhone {
 		
 		cellPhone.powerOn();
 		
+		System.out.println("-------------");
+		
 		DmbCellPhone dmbCellPhone = new DmbCellPhone();
 		
 		dmbCellPhone.turnOffDmb();
@@ -16,6 +18,14 @@ public class MobileCellPhone {
 		dmbCellPhone.powerOn();
 		
 		dmbCellPhone.changeChannelDmb(4);
+		
+		System.out.println("-------------");
+		
+		Mobile mobile = new Mobile();
+		
+		mobile.powerOff();
+		mobile.changeChannelDmb(17);
+		mobile.aaa();
 		
 	}
 
