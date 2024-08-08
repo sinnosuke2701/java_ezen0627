@@ -7,8 +7,9 @@ public class StudentEx {
 		
 		People people = new People();
 		
-		
-		System.out.println();
+		people.sayName();
+		people.name = "안녕";
+		System.out.println("Student.name: " + people.name);
 		
 	}
 
