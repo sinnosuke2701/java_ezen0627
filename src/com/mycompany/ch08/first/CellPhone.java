@@ -1,4 +1,4 @@
-package com.mycompany.ch08first;
+package com.mycompany.ch08.first;
 
 public class CellPhone {
 	
