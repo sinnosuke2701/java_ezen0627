@@ -6,6 +6,7 @@ public class ConstantsEx {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Constants.TOP_BULDING: " + Constants.TOP_BULDING);
+		System.out.println("Constants.AGE: " + Constants.AGE);
 		
 	}
 
