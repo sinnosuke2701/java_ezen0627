@@ -45,7 +45,7 @@ public class Array1 {
 			System.out.println("scorechemistry3[" + j + "]: " + scorechemistry3[j]);
 		}
 
-		System.out.println("---------------------");
+		System.out.println("?---------------------");
 
 		// 향상된 for 문
 
